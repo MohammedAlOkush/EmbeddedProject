@@ -1,2 +1,2 @@
 # EmbeddedProject
-Final project repo for the embedded systems project
+This is a repository for the final project of embedded systems. It explores a smart safe that uses facial recogniton and a password as an added layer of safety. 
