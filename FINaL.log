@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\fawaz\OneDrive\Desktop\yazan\Final Project\FINaL.mcppi" -SP"C:\mikroC PRO for PIC\Defs\" -SP"C:\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\fawaz\OneDrive\Desktop\yazan\Final Project\" -IP"C:\mikroC PRO for PIC\Uses\P16\" "FINaL.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_I2C_c34.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+diagnostics: 0	122	Compilation Started	FINaL.c
+diagnostics: 361	123	Compiled Successfully	FINaL.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+diagnostics: 0	125	Project Linked Successfully	FINaL.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'FINaL.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 06 Jun 2023, 00:06:23	FINaL.mcppi
